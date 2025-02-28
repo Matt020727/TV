@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-28 06:38:32,url
+2025-02-28 18:43:50,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -8,7 +8,7 @@ CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265001/1.m3
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501$订阅源|IPv6
 CCTV-1,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002133/index.m3u8$订阅源|IPv6
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$订阅源|1920x1080
-CCTV-1,http://120.76.248.139/live/bfgd/4200000488.m3u8$订阅源|1920x1080
+CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3$订阅源
 CCTV-2,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-2,http://220.249.114.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -147,7 +147,7 @@ CETV2,http://1.203.77.72:5001/rtp/225.1.8.193:4120$北京电信组播源
 广东卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源|IPv6
 广东卫视,http://4330413.xyz:35455/itv/1000000005000265034.m3u8?cdn=ystenlive$订阅源|1920x1080
 广东卫视,http://iptv.0564.org:35455/itv/1000000005000265034.m3u8?cdn=ystenlive$订阅源|1920x1080
-广东卫视,https://www.freetv.top/migu/608831231.m3u8?migutoken=71ab4343c0e7a55b1287f3c4ec3383c9de673d987b5c849b2728e9af4223510bc8d8fcb87af13066db4920eb8e871c74aa5e93e04d43de870dc64eadb99a05456adfdb14b43000fd4520cba033$订阅源|1920x1080
+广东卫视,http://j.x.bkpcp.top/jx/GUANGDHD$订阅源|1920x1080
 浙江卫视,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 浙江卫视,http://220.249.114.102:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 浙江卫视,http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -211,15 +211,15 @@ CETV2,http://1.203.77.72:5001/rtp/225.1.8.193:4120$北京电信组播源
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 东南卫视,http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225950/main.m3u8$订阅源|IPv6
 东南卫视,http://[2409:8087:74d1:22::4]:6610/270000001128/9900000519/index.m3u8?channel-id=newtv&Ace$订阅源|IPv6
+东南卫视,http://8.138.7.223/tv/fjtv.php?id=5$订阅源|1920x1080
 东南卫视,http://111.61.236.247:9081/hls/42/index.m3u8$订阅源
 东南卫视,http://110.53.218.182:9902/tsfile/live/0137_1.m3u8$订阅源
-东南卫视,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8$订阅源
 甘肃卫视,http://220.249.114.102:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 甘肃卫视,http://139.129.231.228:50060/rtp/239.21.2.22:5002$组播源
-甘肃卫视,http://lu.wqwqwq.sbs/itv/5000000011000031121.m3u8?cdn=bestzb$订阅源|1920x1080
-甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8$订阅源|IPv6
 甘肃卫视,http://111.61.236.247:9081/hls/54/index.m3u8$订阅源
+甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8$订阅源|IPv6
 甘肃卫视,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_GANSU-HQ/G_GANSU-HQ.m3u8$订阅源
+甘肃卫视,http://58.57.40.22:9901/tsfile/live/1056_1.m3u8$订阅源
 广西卫视,http://220.249.114.102:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广西卫视,http://111.61.236.247:9081/hls/44/index.m3u8$订阅源
@@ -434,23 +434,19 @@ CETV2,http://1.203.77.72:5001/rtp/225.1.8.193:4120$北京电信组播源
 衢州公共,http://120.55.49.231:2386/rtp/233.50.202.12:5140$浙江电信组播源
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?$订阅源|1920x1080
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源|1920x1080
-龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8$订阅源
-龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8$订阅源
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8$订阅源|1920x1080
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed?$订阅源|1920x1080
-萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$订阅源
-萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8$订阅源
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?$订阅源|1920x1080
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8$订阅源|1920x1080
+绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?$订阅源
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed$订阅源
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?$订阅源
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8$订阅源|1920x1080
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed?$订阅源|1920x1080
-新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8$订阅源
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?$订阅源|1920x1080
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?$订阅源|1920x1080
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8$订阅源|1920x1080
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8$订阅源|1920x1080
-余姚新闻综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8$订阅源
-余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?$订阅源|1920x1080
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8$订阅源|1920x1080
 
@@ -591,6 +587,7 @@ CETV2,http://1.203.77.72:5001/rtp/225.1.8.193:4120$北京电信组播源
 福建经济,http://117.27.190.42:9998/tsfile/live/23289_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 福建综合,http://117.27.190.42:9998/tsfile/live/23284_1.m3u8?key=txiptv$订阅源
 福建综合,http://117.27.190.42:9998/tsfile/live/23285_1.m3u8$订阅源
+福建少儿,http://8.138.7.223/tv/fjtv.php?id=2$订阅源|1920x1080
 福建少儿,http://php.jdshipin.com:8880/fujian.php?id=8$订阅源
 
 ☘️海南频道,#genre#
@@ -604,6 +601,8 @@ CETV2,http://1.203.77.72:5001/rtp/225.1.8.193:4120$北京电信组播源
 石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8$订阅源
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8$订阅源
 河北农民,http://121.19.134.222:808/tsfile/live/1005_1.m3u8$订阅源
+任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8$订阅源
+兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8$订阅源
 
 ☘️贵州频道,#genre#
 贵州移动电视,http://122.9.151.210:9147/rtp/238.255.2.117:5999$贵州电信组播源
@@ -626,6 +625,7 @@ CETV2,http://1.203.77.72:5001/rtp/225.1.8.193:4120$北京电信组播源
 山东新闻,http://livealone302.iqilu.com/iqilu/ggpd.m3u8$订阅源
 山东国际,http://139.129.231.228:50060/rtp/239.21.1.61:5002$组播源
 山东教育,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_SDETV/G_SDETV.m3u8$订阅源
+山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8$订阅源
 山东教育,http://183.11.239.36:808/hls/72/index.m3u8$订阅源
 山东居家购物,http://livealone302.iqilu.com/iqilu/gwpd.m3u8$订阅源
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.flv$订阅源
@@ -654,9 +654,8 @@ CETV2,http://1.203.77.72:5001/rtp/225.1.8.193:4120$北京电信组播源
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
-安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv$订阅源|1920x1080
 安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8$订阅源
-固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8$订阅源
+固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8$订阅源|1920x1080
 芜湖新闻综合,https://live3.wuhunews.cn/news/playlist.m3u8?_upt=b892b7e31721736347$订阅源
 芜湖新闻综合,https://live3.wuhunews.cn/news/playlist.m3u8?_upt=63df40ad1725344791$订阅源
 芜湖公共,https://live3.wuhunews.cn/channel3/playlist.m3u8?_upt=b851190a1720516992$订阅源
@@ -691,6 +690,9 @@ CETV2,http://1.203.77.72:5001/rtp/225.1.8.193:4120$北京电信组播源
 安多卫视,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_ANDUO$订阅源
 
 ☘️黑龙江频道,#genre#
+哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8$订阅源
+哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8$订阅源
+哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8$订阅源
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源|1920x1080
@@ -698,6 +700,7 @@ CETV2,http://1.203.77.72:5001/rtp/225.1.8.193:4120$北京电信组播源
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$订阅源|1920x1080
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt$订阅源
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源|1920x1080
+明珠台,http://8.138.7.223/tv/gdmzyd.php?id=3$订阅源|1920x1080
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源|1920x1080
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8$订阅源
 凤凰中文,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.59:80/PLTV/3/224/3221228527/1.m3u8?accountinfo=liKUscxeA3mntTkvcrPdLC0JYhRJ8GbjSgBJJtzDsTUq%2FpkEzcEgSA5jxU7E691yoTzNtIBFrb%2BIDS0e%2Fx7VbeVgZAe%2Fh9LVb30YjuWosxNwd%2FGCIxz9Y34Vf7X4oRpDbF2ObC9a54Vp367lDA52PczEcH9gPEwYj%2BtNwrWi0aU%3D%3A20241025090449%2C-1%2C112.25.63.228%2C20241025090449%2CHD-10000k-1080P-fhchinese5s%2C1734243741512_23%3A8F%3AF4%3AAE%3A73%3AC6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000016268459_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FHD-10000k-1080P-fhchinese5s%2FHD-10000k-1080P-fhchinese5s&icpid=88888888&from=5&popid=5&hms_devid=6885&prioritypopid=5$订阅源
@@ -794,12 +797,9 @@ CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源|1920x1080
 JJ斗地主,https://live.iill.top/douyu/488743$订阅源
 
 🪁动画频道,#genre#
-卡酷动画,http://wouu.net:9977/udp/239.93.0.208:5140$订阅源
 动漫秀场,http://php.jdshipin.com:8880/bst.php?id=dmxc8m/8000000$订阅源
 动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83$订阅源
 动漫秀场,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140$订阅源
-宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140$订阅源
 优漫卡通,http://139.129.231.228:50060/rtp/239.21.1.50:5002$组播源
 优漫卡通,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8$订阅源
 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8$订阅源
@@ -819,7 +819,6 @@ JJ斗地主,https://live.iill.top/douyu/488743$订阅源
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
 七龙珠,https://live.iill.top/huya/25650806$订阅源
 海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919$订阅源
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970$订阅源
 
 🎮游戏频道,#genre#
