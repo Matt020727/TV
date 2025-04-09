@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-09 06:38:21,url
+2025-04-09 18:45:12,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -465,7 +465,7 @@ CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
 新闻综合,http://139.196.151.191:2051/rtp/239.45.3.209:5140$组播源
 新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源|1920x1080
 新闻综合,https://xatv-yt.xiancity.cn/live/1/index.m3u8$订阅源|1920x1080
-新闻综合,http://live.schstv.com:90/live/xwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源|1920x1080
+新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订阅源|1920x1080
 欢笑剧场,http://120.55.49.231:2386/rtp/233.50.201.189:5140$浙江电信组播源
 法治天地,http://139.196.151.191/rtp/239.45.1.46:5140$组播源
 法治天地,http://dassby.qqff.top:99/live/法治天地/index.m3u8$订阅源
@@ -492,7 +492,6 @@ CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8$订阅源
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8$订阅源
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd$订阅源
-靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8$订阅源
 
 ☘️辽宁频道,#genre#
 
@@ -533,7 +532,7 @@ CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
 天津卫视,http://61.138.128.226:19901/tsfile/live/0135_1.m3u8$订阅源
 
 ☘️四川频道,#genre#
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd$订阅源
+叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd$订阅源|1920x1080
 康巴卫视,http://139.196.151.191:7008/rtp/239.45.1.251:5140$组播源
 康巴卫视,http://139.196.214.238/rtp/239.45.1.251:5140$组播源
 康巴卫视,http://139.196.151.191:2051/rtp/239.45.1.251:5140$组播源
@@ -541,16 +540,16 @@ CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
 康巴卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_KANGBA/G_KANGBA.m3u8?p=GITV&area=GD_CUCC&$订阅源
 康巴卫视,http://tv.2cf.x10.mx/2hl/3221225660/index.m3u8?ace$订阅源
 康巴卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=yu&mode=1&$订阅源
-金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8$订阅源
-金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd$订阅源
+金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8$订阅源|1920x1080
+金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd$订阅源|1920x1080
 
 ☘️福建频道,#genre#
 厦门卫视,http://139.129.231.228:50060/rtp/239.21.2.6:5002$组播源
 厦门卫视,http://218.24.193.146:808/rtp/232.0.0.160:1234$组播源
-厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8$订阅源
+厦门卫视,http://220.161.87.62:8090/hls/0/index.m3u8?zfud$订阅源|1920x1080
 厦门卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8$订阅源|IPv6
+厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8$订阅源
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8$订阅源
-厦门卫视,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud$订阅源
 福建少儿,http://php.jdshipin.com:8880/fujian.php?id=8$订阅源
 福建少儿,http://110.81.206.138:49231/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
@@ -600,7 +599,6 @@ CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
-安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv$订阅源|1920x1080
 安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8$订阅源
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8$订阅源|1920x1080
 芜湖新闻综合,https://live3.wuhunews.cn/news/playlist.m3u8?_upt=b892b7e31721736347$订阅源
@@ -609,7 +607,6 @@ CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
 芜湖公共,https://live3.wuhunews.cn/channel3/playlist.m3u8?_upt=3bc6a5ef1721736361$订阅源
 滁州市广播电视台 新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8$订阅源
 滁州市广播电视台 公共,http://live.cztv.cc:85/live/ggpd.m3u8$订阅源
-宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd$订阅源|1920x1080
 
 ☘️宁夏频道,#genre#
 安多卫视,http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8$订阅源
@@ -639,9 +636,9 @@ CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
 哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8$订阅源
 
 🌊港·澳·台,#genre#
+翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8$订阅源|3840x2160
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源|1920x1080
 翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8$订阅源|1920x1080
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40$订阅源
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt$订阅源
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源
 明珠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8$订阅源|1920x1080
@@ -695,6 +692,7 @@ CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$订阅源
 CHC动作电影,http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$订阅源|IPv6
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy$订阅源
 CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+NewTV动作电影,http://43.138.0.72:35455/yy/1382736823$订阅源
 黑莓电影,http://tv.2cf.x10.mx/2hl/3221225743/index.m3u8?ace$订阅源
 黑莓电影,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=yu&mode=1&$订阅源
 黑莓电影,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=yu&mode=1&$订阅源
@@ -776,6 +774,7 @@ JJ斗地主,https://live.iill.top/douyu/488743$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244$订阅源|1920x1080
 七龙珠,https://live.iill.top/huya/25650806$订阅源
 海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919$订阅源
+猫和老鼠,http://huanqiuzhibo.cn/manifest/huya.php?id=11352879$订阅源
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970$订阅源
 
 🎮游戏频道,#genre#
@@ -794,5 +793,6 @@ CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8$订阅源
 🏛经典剧场,#genre#
 笑傲江湖,http://live.iill.top/huya.php?id=23865142$订阅源
 天龙八部,http://live.iill.top/huya.php?id=23903123$订阅源
+鹿鼎记,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080$订阅源
 三国演义,https://lunbo.freetv.top/yy/1354930932$订阅源
 新白娘子传奇,https://lunbo.freetv.top/yy/1354930969$订阅源
